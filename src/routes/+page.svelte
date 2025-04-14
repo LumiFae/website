@@ -24,9 +24,9 @@
             link: 'https://github.com/DiscordLabSCP/DiscordLab'
         },
         {
-            name: "Friday",
+            name: "enka.cards",
             icon: Typescript,
-            link: 'https://github.com/LumiFae/Friday'
+            link: 'https://github.com/LumiFae/enka.cards'
         },
         {
             name: 'enka.discord',
